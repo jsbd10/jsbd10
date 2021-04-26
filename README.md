@@ -1,9 +1,9 @@
-# Welcome! I'm Sebastian Benavides
+# Hi :wave:, I'm Sebastian Benavides
 
-*I'm studying system engineering at Catholic Univeristy of Colombia.*
+*I'm studying system engineering at Catholic Univeristy of Colombia.* :computer:
 
-- :smiling_imp:  I'm currently learning React native, flutter, .NET, and Deep Learning.
-- I like to develop applications with to design interesting.
+- :books: I'm currently learning React native, flutter, .NET, and Deep Learning.
+- 🎨: I like to develop applications with to design interesting.
 
 
-***Can I help you?***
+***Can I help you :question:***
